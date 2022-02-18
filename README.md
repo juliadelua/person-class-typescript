@@ -1,3 +1,2 @@
-# typescript-yrnpxx
+# Projeto para Tópicos Especiais em Sistemas para Internet II
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/typescript-yrnpxx)
